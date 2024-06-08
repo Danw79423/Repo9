@@ -11326,7 +11326,7 @@
                   textAlign: "center",
                   fontWeight: "bold",
                   fontSize: 26,
-                  marginTop: 20,
+                  marginTop: 10,
                   marginBottom: 20,
                 },
                 children: "Copyright Appeal Form",
@@ -11424,7 +11424,7 @@
               (0, c.jsx)("div", {
                 style: {
                   paddingTop: 20,
-                  paddingBottom: 20,
+                  paddingBottom: 10,
                   borderRadius: 10,
                 },
                 children: (0, c.jsx)("img", {
@@ -11443,7 +11443,7 @@
                       fontWeight: "bold",
                       fontSize: 20,
                       color: "#3084F4",
-                      marginTop: 20,
+                      marginTop: 10,
                       marginBottom: 15,
                     },
                     children: "Review request",
@@ -11738,7 +11738,7 @@
                       fontWeight: "bold",
                       fontSize: 16,
                       paddingTop: 20,
-                      paddingBottom: 20,
+                      paddingBottom: 10,
                       backgroundColor: "white",
                     },
                     children: [
